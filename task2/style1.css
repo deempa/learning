@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+
+.flex{
+    display: flex; 
+    flex-direction: column;
+    justify-content: center;
+    background-color: #30336b;
+    color:white;
+    font-family: 'Open Sans', sans-serif;
+    height: 100vh;
+    text-align: center;
+    font-size: 70px;
+}
