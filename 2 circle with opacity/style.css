@@ -1,0 +1,15 @@
+.circle1{
+    background-color: rgba(100, 200, 5, 0.4);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.circle2{
+    background-color: rgba(78, 52, 255, 0.7);
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    display: inline-block;
+}
